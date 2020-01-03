@@ -48,7 +48,7 @@ Now that we understand how this vulnerability works, we are going to see how we 
 
 # 2 - Format String Injections
 
-printf, scanf etc. are really useful when you develop a program. But if you can have severe security vulnerabilities if you use them without RTFM.
+printf, scanf etc. are really useful when you develop a program. But you can have severe security vulnerabilities if you use them without RTFM.
 
 ## Read the Stack
 
