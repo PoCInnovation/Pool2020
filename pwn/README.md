@@ -1,6 +1,6 @@
 # pwn
 
-pwn is the security field where you exploit memory corruptions breach. This field is really interesting because it helps you discover and exploit the various errors a developer can make.
+pwn is the security field where you exploit memory corruptions breach and vulnerable designs. This field is really interesting because it helps you discover and exploit the various errors a developer can make.
 In this workshop, we are going to study :
 * stack buffer overflows
 * format string injections
