@@ -13,7 +13,7 @@ This warning out of the way, let's dive in !
 
 ## Exercice 00
 
-For this exeercice you have to solve [this challenge](https://capturetheether.com/challenges/warmup/deploy/).
+For this exercice you have to solve [this challenge](https://capturetheether.com/challenges/warmup/deploy/).
 
 The goal of this challenge is for you to setup the environment you need to solve the following exercices.
 
