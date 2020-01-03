@@ -1,17 +1,13 @@
 # Blockchain Ethereum
 
-Today we are going to learn about the security involved zith blockchains,
-specifically the Ethereum blockchain.
+Today we are going to learn about the security involved with blockchains,
+especially the Ethereum blockchain.
 
 As usual, no worry if you've never played with blockchains before, you are meant
 to learn what you will need along the way.
 
-For the following exercices, we are going to use [Capture The Ether](https://capturetheether.com/)
-an awesome resource of Ethereum security challenges. Know that unlike
-Root-me, Capture the Ether does not have a "no solutions" policy, so you might
-come across solutions for the exercices you are trying to solve. We won't try to
-discourage you from reading the solutions, it is your problem if you want to be
-spoiled of the answers.
+For the following exercices, we are going to use [Capture The Ether](https://capturetheether.com/) an awesome resource of Ethereum security challenges. Know that unlike Root-me, Capture the Ether does not have a "no solutions" policy, so you might come across solutions for the exercices you are trying to solve. We won't try to
+discourage you from reading the solutions, it is your problem if you want to be spoiled of the answers.
 
 This warning out of the way, let's dive in !
 
