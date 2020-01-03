@@ -14,6 +14,7 @@ In this workshop, we are going to study :
 In the Reverse Enginneering #1 workshop, we saw how the stack worked. Stack buffer overflow is a vulnerability that is used to write over some values on the stack. To understand it clearly, you must first find out why this code never prints "Hello World" :
 ```C
 #include <stdio.h>
+
 int main(void)
 {
     int i = 0;
@@ -66,7 +67,7 @@ Solve this [Root-me Challenge](https://www.root-me.org/fr/Challenges/App-Systeme
 
 The logical flow of a program can be poorly designed by the developer and have non-desired consequences. To exploit a race condition, you have to do a certain action at a certain timing, be quick !
 
-Solve this [Root-me Challenge](https://www.root-me.org/fr/Challenges/App-Systeme/ELF-x86-Race-condition)
+Solve this [Root-me Challenge](https://www.root-me.org/fr/Challenges/App-Systeme/ELF-x86-Race-condition) !
 
 # 4 - Use after Free
 
