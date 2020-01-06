@@ -45,4 +45,8 @@ The disadvantage is that you can detect the use of this technique if you open th
 
 # Read ? Steady ? Guess !!!
 
-The challenge starts ![here](./images/just-dig.png). Retrieve as many flags as you can.
+The challenge starts !
+
+[here](./images/just-dig.png)
+
+Retrieve as many flags as you can.
