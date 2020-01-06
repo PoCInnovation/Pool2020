@@ -4,7 +4,7 @@ Steganography is the art of hiding the fact that you are hiding something :). Ba
 
 # Before we start
 
-To solve the challenges og this workshop, you will have to know some basic things on how files work.
+To solve the challenges of this workshop, you will have to know some basic things on how files work.
 
 ## File formats
 
