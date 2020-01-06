@@ -39,9 +39,9 @@ How to hide data in an image without using the filter technique and without conc
 
 ![LSB](./images/lsb.png)
 
-This technique consists of encoding the data to hide to base64 and wrote, bit per bit, to the byte describing the image content.
+This technique consists of encoding the data to hide to base64 and write them to the last bit of some bytes describing the image content.
 
-The disadvantage is that you can detect the use of this technique if you open the image at high contrast and check the pixel color : if it's not as uniform as it appeared to be, some content must be stored with the LSB technique.
+The disadvantage is that you can detect the use of this technique if you open the image at high contrast and check the pixel color : if it's not as uniform as it appeared to be, some content may be stored with the LSB technique in the file.
 
 # Read ? Steady ? Guess !!!
 
