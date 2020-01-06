@@ -1,6 +1,6 @@
 # Steganography
 
-Steganography is the art of hiding the fact that you are hiding something :). Basically this means that all the process of hiding data in a file (image, sound, pdf...) is steganography. In this workshop, we are going to learn some basic techniques to hide data ad reverse them to retrieve it.
+Steganography is the art of hiding the fact that you are hiding something :). Basically this means that all the process of hiding data in a file (image, sound, pdf...) is steganography. In this workshop, we are going to learn some basic techniques to hide data in files and to restore it.
 
 # Before we start
 
