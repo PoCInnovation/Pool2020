@@ -36,6 +36,7 @@ You can use `stegsolve` for this !
 ## LSB
 
 How to hide data in an image without using the filter technique and without concatenation ? With the widely used LSB technique, you can hide data in the image bits. LSB stands for Least Significant Bit which is the Bit which has the less importance on the final appearance of the image.
+
 ![LSB](./images/lsb.png)
 
 This technique consists of encoding the data to hide to base64 and wrote, bit per bit, to the byte describing the image content.
