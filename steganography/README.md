@@ -10,7 +10,7 @@ To solve the challenges of this workshop, you will have to know some basic thing
 
 Let's take it from the beginning. Every documents, images, sounds ... can be stored in a file. A file contains data which must be used to render its content. The data organisation in a file is defined by its file format specifications (pdf, jpg, png, wav, zip ...).
 
-Almost all the main file formats have some structural similarities :
+Almost all the common file formats have some structural similarities :
 
 * they start with a header describing the file : the size of its content, the targeted environments etc.
 * the content which can be organised in various ways
