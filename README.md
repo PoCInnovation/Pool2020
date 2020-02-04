@@ -13,5 +13,4 @@
 | Day 6 - Part 1 | Blockchain | [here]() |
 | Day 6 - Workshop 1  | Cryptography  | [here]()  |
 | Day 6 - Workshop 2  | Steganography  | [here]()  |
-| Day 6 - Workshop 3  | IOT  | [here]() |
 | Day 7 | Custom training | |
