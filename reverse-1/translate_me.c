@@ -1,15 +1,8 @@
 #include <stdio.h>
 
-static int i_do_stuff(const char *str)
+int increment(int i)
 {
-    int i = 0;
-
-    while (str[i]) {
-        printf("%c", str[i]);
-        i += 1;
-    }
-    printf("\n");
-    return i;
+    return i + 42;
 }
 
 int main(void)
@@ -18,10 +11,10 @@ int main(void)
     int b = 4;
 
     if (a + b == 5) {
-        a = i_do_stuff("IamGroot<3");
+        a = increment(a);
     }
     else {
         a += 1;
     }
-    return a;
+    return a + b;
 }
