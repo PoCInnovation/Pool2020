@@ -44,7 +44,7 @@ We will learn how the computer execute a binary and we will make static and dyna
 
 ## Reverse Engineering #2 with Cutter
 
-[Subject](REVERSE1/teacher.md)
+[Subject](REVERSE1/student.md)
 
 ## Pwn
 
