@@ -1,0 +1,28 @@
+{
+  "name": "softwarepool2020-ref-d03",
+  "version": "1.0.0",
+  "description": "The reference of PoC's Software Pool 2020 d03",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "lint:format": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoCFrance/SoftwarePool2020-ref.git"
+  },
+  "author": "PoC Innovation Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PoCFrance/SoftwarePool2020-ref/issues"
+  },
+  "homepage": "https://github.com/PoCFrance/SoftwarePool2020-ref#readme",
+  "dependencies": {
+    "sqlite3": "^4.1.1",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

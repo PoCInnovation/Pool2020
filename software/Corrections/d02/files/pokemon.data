@@ -1,0 +1,45 @@
+game:
+    pokemon:
+        name = "pikachu"
+        type = "electric"
+        level = 12
+        hp = 50
+        hasEvolution = true
+        hasEvolved = false
+
+        name = "dracofeu"
+        type = "fire"
+        level = 67
+        hp = 150
+        hasEvolution = false
+        hasEvolved = true
+
+        name = "oniglali"
+        type = "ice"
+        level = 12
+        hp = 50
+        hasEvolution = false
+        hasEvolved = true
+    bag:
+        berry:
+            name = "oran"
+            effect = "heal"
+
+            name = "ceriz"
+            effect = "paralyzed"
+
+            name = "pecha"
+            effect = "poisoned"
+
+            name = "fraive"
+            effect = "burnt"
+
+        potion:
+            name = "potion"
+            effect = "20"
+
+            name = "super potion"
+            effect = "50"
+
+            name = "hyper potion"
+            effect = "120"
