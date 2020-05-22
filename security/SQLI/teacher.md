@@ -53,6 +53,10 @@ SQLi classique, on peut appliquer une logique très similaire à celle de l'exer
 
 ## Exercice 02
 
+Root-me, pas de correction publique.
+
+## Exercice 03
+
 On apprend que le premier exercice avait également d'autres tables qu'on pourrait vouloir récupérer.
 Malheureusement il n'existe pas de méthode qui fonctionne quel que soit le SGBD autre que la chance pure,
 il va donc nous falloir commencer par savoir à quel SGBD on a affaire.
@@ -70,10 +74,6 @@ des bases de donnée du système, et on peut donc récupérer dedans les informa
 ```
 
 On découvre la présence d'une colonne secret dqans la table secret, qu'on peut aller chercher.
-
-## Exercice 03
-
-Root-me, pas de correction publique.
 
 ## Exercice 04
 
