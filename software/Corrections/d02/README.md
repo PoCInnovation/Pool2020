@@ -154,7 +154,7 @@ les mots clés `async` et `await` vous sont interdits.
 Maintenant que vous vous êtes familiarisé avec l'organisation des JSON, nous allons récuperer ceux proposés par GitHub.
 
 > GitHub fournit une API très complète pour récupérer de la donnée via des requêtes.
-> Nous allons donc nous en servir pour recuperer la liste des membres de l'organisation "PoCFrance".
+> Nous allons donc nous en servir pour recuperer la liste des membres de l'organisation "PoCInnovation".
 
 - Trouvez sur la documentation la bonne requête
 - Effectuez la dans votre terminal à l'aide de `curl`
@@ -198,7 +198,7 @@ lancé avec la commande `npm start`.
 
 ## Exercice 09 - Passons à quelquechose de plus... gros
 
-Nous allons maintenant requêter les dépôts publics de PoCFrance.
+Nous allons maintenant requêter les dépôts publics de PoCInnovation.
 La taille de l'objet va être multipliée par 10 !
 
 - Trouvez la bonne requête sur l'API de GitHub

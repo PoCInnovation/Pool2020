@@ -7,12 +7,12 @@ const displayUsers = (users) => {
 };
 
 const requestUsers = async () => {
-  const response = await axios.get("https://api.github.com/orgs/PoCFrance/members")
+  const response = await axios.get("https://api.github.com/orgs/PoCInnovation/members")
   return response.data
 };
 
 const requestRepos = async () => {
-  const response = await axios.get("https://api.github.com/orgs/PoCFrance/repos")
+  const response = await axios.get("https://api.github.com/orgs/PoCInnovation/repos")
   return response.data
 };
 

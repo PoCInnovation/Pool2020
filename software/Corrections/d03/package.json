@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PoCFrance/SoftwarePool2020-ref.git"
+    "url": "git+https://github.com/PoCInnovation/SoftwarePool2020-ref.git"
   },
   "author": "PoC Innovation Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PoCFrance/SoftwarePool2020-ref/issues"
+    "url": "https://github.com/PoCInnovation/SoftwarePool2020-ref/issues"
   },
-  "homepage": "https://github.com/PoCFrance/SoftwarePool2020-ref#readme",
+  "homepage": "https://github.com/PoCInnovation/SoftwarePool2020-ref#readme",
   "dependencies": {
     "sqlite3": "^4.1.1",
     "uuid": "^3.4.0"
